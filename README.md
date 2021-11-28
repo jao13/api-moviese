@@ -31,7 +31,7 @@ Além disso, é bom que se tenha um bom editor de código, como o [VSCode](https
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/jao13/api-moviese>
+$ git clone <https://github.com/joaomarques13/api-moviese>
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd api-moviese
