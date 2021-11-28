@@ -19,7 +19,7 @@
 
 <br>
 
-## ℹ️ Como usar o aplicativo
+## ℹ️ Como rodar a aplicação
 
 ### Pré-requisitos
 
