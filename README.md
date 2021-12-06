@@ -1,6 +1,6 @@
 # API MovieSe - Desafio Desenvolvedor Mobile FullStack Jr.
 
-<p align="left">API desenvolvida em Node.js, com PostgreSQL como banco de dados.</p>
+<p align="left">API desenvolvida em Node.js com PostgreSQL.</p>
 
 ## 👨‍💻 Tecnologias
 
