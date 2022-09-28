@@ -1,4 +1,4 @@
-# API MovieSe - Desafio Desenvolvedor Mobile Full Stack
+# API MovieSe
 
 <p align="left">API desenvolvida em Node.js com PostgreSQL.</p>
 
